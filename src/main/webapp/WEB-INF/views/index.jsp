@@ -28,7 +28,7 @@
     <table class="table">
         <thead>
         <tr>
-            <th scope="col">Значение</th>
+            <th scope="col">Проверка</th>
         </tr>
         </thead>
         <tbody>
