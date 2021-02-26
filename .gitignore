@@ -30,7 +30,8 @@ build/*
 # akka specific 
 logs/* 
 
-# sbt specific 
+# sbt specific
+out/
 target/ 
 project/boot 
 lib_managed/* 
